@@ -6,7 +6,7 @@
 
 - Highest Batch size -> 256
 
-- Tensorboard Link -> 
+- Tensorboard Link -> https://tensorboard.dev/experiment/l1LXCpzYSw2EKCdVY7A8Ag/#scalars
 
 - GPU Usage - results-file.csv
 
