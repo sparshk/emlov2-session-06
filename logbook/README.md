@@ -8,7 +8,7 @@
 
 - Tensorboard Link -> 
 
-- GPU Usage -
+- GPU Usage - results-file.csv
 
 - Thoroughly commented - you can use this repo as a reference and educational resource.
 
