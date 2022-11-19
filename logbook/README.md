@@ -6,6 +6,8 @@
 
 - Highest Batch size -> 256
 
+- Config File for Training - https://github.com/sparshk/emlov2-session-06/blob/main/configs/experiment/cifar.yaml
+
 - Tensorboard Link -> https://tensorboard.dev/experiment/l1LXCpzYSw2EKCdVY7A8Ag/#scalars
 
 - GPU Usage - results-file.csv
